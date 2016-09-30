@@ -1,6 +1,6 @@
-# SPUpgrade
+# SPUpgrade and Farm Audit
 SharePoint 2016 Upgrade Resources (upgrading from SharePoint 2013 to SharePoint 2016)
-These are my Farm Audit files from my workshop course and Pluralsight course on upgrading from SharePoint 2013 to Sharepoint 2016.
+These are my Farm Audit files from my workshop course and Pluralsight course on upgrading from SharePoint 2013 to SharePoint 2016.
 
 ## The Articles
 I have created a series of articles on the topic of Auditing and Upgrading a SharePoint 2013 farm to SharePoint 2016. You can begin your read here http://ableblue.com/blog.
